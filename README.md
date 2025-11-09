@@ -10,3 +10,5 @@ Hi, I’m Sara — an NLP enthusiast who believes in learning with curiosity and
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraaElsayed&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/SaraaElsayed/SaraaElsayed/blob/output/github-snake-dark.svg)
