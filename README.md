@@ -11,7 +11,8 @@ Hi, I’m Sara — an NLP enthusiast who believes in learning with curiosity and
 
 
 
-![snake gif](https://github.com/SaraaElsayed/SaraaElsayed/blob/output/github-snake-dark.svg)
+![Profile views](https://komarev.com/ghpvc/?username=SaraaElsayed&color=blue)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
